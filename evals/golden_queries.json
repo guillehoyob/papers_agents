@@ -1,0 +1,17 @@
+[
+  {
+    "query": "What is LoRA?",
+    "must_mention": ["low-rank", "adaptation", "parameter"],
+    "expected_source_type": "local"
+  },
+  {
+    "query": "Compare chain-of-thought with zero-shot prompting",
+    "must_mention": ["reasoning", "step"],
+    "expected_source_type": "any"
+  },
+  {
+    "query": "What is mixture of experts in transformers?",
+    "must_mention": ["expert", "routing"],
+    "expected_source_type": "arxiv"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "query": "What is LoRA?",
+    "keyword": 1.0,
+    "relevance": 5,
+    "grounded": 3,
+    "clarity": 4,
+    "n_papers": 2
+  },
+  {
+    "query": "Compare chain-of-thought with zero-shot prompting",
+    "keyword": 1.0,
+    "relevance": 5,
+    "grounded": 4,
+    "clarity": 5,
+    "n_papers": 10
+  },
+  {
+    "query": "What is mixture of experts in transformers?",
+    "keyword": 0.5,
+    "relevance": 5,
+    "grounded": 1,
+    "clarity": 4,
+    "n_papers": 3
+  }
+]
